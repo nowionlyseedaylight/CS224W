@@ -1,2 +1,2 @@
 # CS224W
-study chornicle_CS224W (Stanford Univ Lecture)
+study chronicle_CS224W (Stanford Univ Lecture)
